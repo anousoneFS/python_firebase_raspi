@@ -29,9 +29,9 @@ db = firebase.database()
 
 def stream_handler(message):
     # print(message["event"])  # put
-    # print(message["path"])  # /-K7yGTTEp7O549EzTYtI
-    print("the current status LED = {}".format(message["data"]["status_led"]))
-    # print(message["data"])  # {'title': 'Pyrebase', "body": "etc..."}
+    #print(message["path"])  # /-K7yGTTEp7O549EzTYtI
+    #print("the current status LED = {}".format(message["data"]["status_led"]))
+    print(message["data"])  # {'title': 'Pyrebase', "body": "etc..."}
 
     # return message["data"]
 
