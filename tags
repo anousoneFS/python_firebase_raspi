@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/anousonefs/Desktop/flask_firebase/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/08b1c49/
+About Me	templates/index.html	/^          <h2>About Me<\/h2>$/;"	i
+Champa Maker Club	templates/index.html	/^      <h1>Champa Maker Club<\/h1>$/;"	h
+Follow Me	templates/index.html	/^          <h3>Follow Me<\/h3>$/;"	j
+Footer	templates/index.html	/^      <h2>Footer<\/h2>$/;"	i
+Popular Post	templates/index.html	/^          <h3>Popular Post<\/h3>$/;"	j
+TITLE HEADING	templates/index.html	/^          <h2>TITLE HEADING<\/h2>$/;"	i
+app	index.py	/^app = Flask(__name__)$/;"	v
+control_servo	index.py	/^def control_servo():$/;"	f
+db	firebases.py	/^db = firebase.database()$/;"	v
+db	index.py	/^db = firebase.database()$/;"	v
+firebase	firebases.py	/^firebase = pyrebase.initialize_app(firebaseConfig)$/;"	v
+firebase	index.py	/^firebase = pyrebase.initialize_app(firebaseConfig)$/;"	v
+firebaseConfig	firebases.py	/^firebaseConfig = {$/;"	v
+firebaseConfig	index.py	/^firebaseConfig = {$/;"	v
+index	index.py	/^def index():$/;"	f
+my_stream	firebases.py	/^my_stream = db.child("my_led").stream(stream_handler)$/;"	v
+stream_handler	firebases.py	/^def stream_handler(message):$/;"	f
